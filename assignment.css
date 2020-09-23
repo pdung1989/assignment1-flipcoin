@@ -1,0 +1,15 @@
+button {
+  font: bold 16px/1.5 Helvetica, Verdana, sans-serif;
+  width:10em;
+}
+
+button:hover {
+  background-color: rgb(60, 209, 152);
+  color: black;
+}
+
+#result {
+  color: rgb(213, 48, 76);
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
