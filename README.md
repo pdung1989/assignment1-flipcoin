@@ -1,4 +1,4 @@
-# assignment1-flipcoin
+# Flipcoin Game
 Flip coin assignment using JS and DOM
 - User's choice: Head or Reverse
 - Click button 'Throw' to flip coin as many times as you want
